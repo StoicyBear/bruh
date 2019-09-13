@@ -1,0 +1,17 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "description": "bruh bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "?"
+  },
+  "keywords": [
+    "bruh"
+  ],
+  "author": "Stoic",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
